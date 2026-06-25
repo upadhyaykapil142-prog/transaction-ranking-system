@@ -5,8 +5,8 @@ A backend system that processes user transactions, generates user summaries, and
 ---
 
 ## 📌 Live Demo
-- Frontend: https://your-frontend-link.vercel.app  
-- Backend API: https://your-backend-link.onrender.com  
+- Frontend: https://transaction-ranking-system.vercel.app
+- Backend API: https://transaction-ranking-api.onrender.com 
 
 ---
 
