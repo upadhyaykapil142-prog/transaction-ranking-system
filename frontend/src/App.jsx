@@ -8,7 +8,7 @@ function App() {
   const [summary, setSummary] = useState(null);
   const [ranking, setRanking] = useState([]);
 
-  const API = "http://127.0.0.1:8000";
+  const API = "https://transaction-ranking-api-dw1s.onrender.com";
 
   const submitTransaction = async () => {
     try {
